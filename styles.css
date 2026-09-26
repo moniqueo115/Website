@@ -118,6 +118,10 @@ p{margin:0 0 18px}
   overflow:hidden;
 }
 
+.approach-image{
+  background:url("assets/approach-image.jpg") center/cover no-repeat;
+}
+
 .split-image img{
   width:100%;
   height:100%;
