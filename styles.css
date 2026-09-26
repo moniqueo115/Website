@@ -76,7 +76,7 @@ p{margin:0 0 18px}
 .section-head h2{font-family:var(--sans);font-size:25px;letter-spacing:.27em;text-transform:uppercase;white-space:nowrap}
 
 .services-grid{display:grid;grid-template-columns:repeat(5,1fr)}
-.service{padding:0 38px;text-align:center;border-right:1px solid var(--line)}
+.service{padding:0 68px;text-align:center;border-right:1px solid var(--line)}
 .service:last-child{border-right:0}
 .service-icon{height:64px;display:flex;justify-content:center;align-items:center;color:var(--gold);font-size:35px;font-family:var(--serif)}
 .service-icon img{width:64px;height:64px;object-fit:contain}
