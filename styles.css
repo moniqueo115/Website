@@ -179,7 +179,7 @@ p{margin:0 0 18px}
 .site-footer{padding:38px 0 28px;background:var(--paper)}
 .footer-grid{display:grid;grid-template-columns:1.2fr 1fr .55fr;gap:50px;align-items:start}
 .footer-contact{border-left:1px solid var(--line);padding-left:35px}
-.footer-contact .location-icon {display: inline-block;width: 29px;flex-shrink: 0;text-align: left;}
+.footer-contact .location-icon {display: inline-block;width: 15px;flex-shrink: 0;text-align: left;}
 .contact-line{display:flex;gap:15px;align-items:center;margin:8px 0;font-size:14px}
 .footer-contact .contact-line:last-child {margin-top: 8px;}
 .footer-contact .contact-line:last-child {padding-left: 0;gap: 15px;}
