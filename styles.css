@@ -80,6 +80,7 @@ p{margin:0 0 18px}
 .service:last-child{border-right:0}
 .service-icon{height:64px;display:flex;justify-content:center;align-items:center;color:var(--gold);font-size:35px;font-family:var(--serif)}
 .service-icon img{width:64px;height:64px;object-fit:contain}
+
 .service h3{
   font-family:var(--sans);
   font-size:21px;
