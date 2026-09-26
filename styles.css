@@ -122,8 +122,8 @@ p{margin:0 0 18px}
   background:url("assets/approach-image.jpg") center/cover no-repeat;
 }
   .approach-image img {
-  width: 404px;
-  height: 380px;
+  width: 454px;
+  height: 430px;
   object-fit: cover;
   margin: 0 auto;
 }
@@ -147,7 +147,7 @@ p{margin:0 0 18px}
 }
 
 .split-copy{
-  padding:65px 70px;
+  padding:65px 0;
   background:var(--cream)
 }
 
