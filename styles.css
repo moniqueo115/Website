@@ -122,8 +122,8 @@ p{margin:0 0 18px}
   background:url("assets/approach-image.jpg") center/cover no-repeat;
 }
   .approach-image img {
-  width: 454px;
-  height: 430px;
+  width: 404px;
+  height: 380px;
   object-fit: cover;
   margin: 0 auto;
 }
