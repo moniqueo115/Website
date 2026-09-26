@@ -180,6 +180,7 @@ p{margin:0 0 18px}
 .footer-grid{display:grid;grid-template-columns:1.2fr 1fr .55fr;gap:50px;align-items:start}
 .footer-contact{border-left:1px solid var(--line);padding-left:35px}
 .contact-line{display:flex;gap:15px;align-items:center;margin:8px 0;font-size:14px}
+.footer-contact .contact-line:last-child {margin-top: 8px;}
 .footer-nav{border-left:1px solid var(--line);padding-left:35px}
 .footer-nav a{display:block;font-family:var(--sans);font-size:10px;letter-spacing:.24em;text-transform:uppercase;margin-bottom:11px}
 .copyright{font-size:12px;color:#777;margin-top:35px}
