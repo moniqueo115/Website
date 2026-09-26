@@ -127,6 +127,9 @@ p{margin:0 0 18px}
   object-fit: cover;
   margin: 0 auto;
 }
+.page-hero .split-copy {
+  padding-right: 50px;
+}
 
 .split-image img{
   width:100%;
