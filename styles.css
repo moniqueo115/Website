@@ -130,6 +130,16 @@ p{margin:0 0 18px}
 .page-hero .split-copy {
   padding-right: 50px;
 }
+.services-image {
+  background: url("assets/services-image.jpg") center/cover no-repeat;
+}
+}
+  .services-image img {
+  width: 454px;
+  height: 430px;
+  object-fit: cover;
+  margin: 0 auto;
+}
 
 .split-image img{
   width:100%;
