@@ -184,7 +184,7 @@ p{margin:0 0 18px}
 .footer-nav a{display:block;font-family:var(--sans);font-size:10px;letter-spacing:.24em;text-transform:uppercase;margin-bottom:11px}
 .copyright{font-size:12px;color:#777;margin-top:35px}
 
-.page-hero{padding:55px 0 60px;background:var(--cream)}
+.page-hero{padding:25px 0 40px;background:var(--cream)}
 .page-hero h1{max-width:850px}
 .page-hero p{font-size:19px;max-width:760px;margin-top:25px;color:#514d47}
 .content-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:70px}
