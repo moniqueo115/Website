@@ -24,6 +24,8 @@ button,input,textarea{font:inherit}
 
 .container{width:min(var(--max),calc(100% - 80px));margin:0 auto}
 .eyebrow{font-family:var(--sans);font-size:11px;letter-spacing:.28em;text-transform:uppercase}
+.page-hero .eyebrow {display: flex;align-items: center;gap: 16px;margin-bottom: 28px;}
+.page-hero .eyebrow::after {content: "";display: block;width: 140px;height: 1px;background: var(--gold);flex-shrink: 0;}
 .script{font-family:var(--serif);font-style:italic;color:var(--gold);font-size:24px}
 h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:.98;margin:0}
 h1{font-size:clamp(48px,5.4vw,78px)}
