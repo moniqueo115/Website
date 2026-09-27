@@ -32,10 +32,7 @@ p{margin:0 0 18px}
 
 .site-header{position:sticky;top:0;z-index:50;background:rgba(251,250,247,.96);backdrop-filter:blur(12px);border-bottom:1px solid rgba(150,120,76,.18)}
 .header-inner{height:100px;display:flex;align-items:center;justify-content:space-between;gap:30px}
-.brand {display: flex;flex-direction: column;align-items: center;width: max-content;line-height: 1;}
-.brand-mark,
-.brand-name,
-.brand-sub {width: 100%;text-align: center;}
+.brand {display: flex;flex-direction: column;align-items: center;text-align: center;line-height: 1;}
 .brand-mark{font-family:var(--serif);font-size:42px;letter-spacing:.03em;text-align:center}
 .brand-mark span{display:inline-block;padding:0 12px}
 .brand-mark span:first-child{border-right:1px solid var(--gold)}
