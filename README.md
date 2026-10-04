@@ -11,11 +11,11 @@ The former Contact page has been removed. All primary call-to-action buttons lin
 https://cal.com/monique-owens-7sfvlf/schedule
 
 ## Contact
-- Email: Monique.Owens.A@gmail.com
+- Email: monique@mopropertyadvisory.com
 - Phone: 832.806.9996
 - Location: Houston, Texas
-- LinkedIn: https://www.linkedin.com/in/monique-owens-a-htx
-- Website: https://moniqueo115.github.io/Website/
-
+- LinkedIn: https://www.linkedin.com/in/mopropertyadvisory
+- Website: https://www.mopropertyadvisory.com
+  
 ## GitHub Pages
 The repository should publish from the `main` branch root. The empty `.nojekyll` file is included so GitHub Pages serves this plain HTML/CSS/JS site without a Jekyll build transformation.
